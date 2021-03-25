@@ -1,5 +1,4 @@
 # hello-world
 Tutorial repository
 
-Adding text
-test
+Modified from VSCode
